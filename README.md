@@ -28,8 +28,8 @@ The primary aim of this project is to develop a predictive model that identifies
 
 ## Exploratory Data Analysis (EDA)
 ### Data Analysis Report
-- [Visit analysis.ipynb](link_to_analysis_notebook)
-- [EDA Report PDF](link_to_EDA_report_pdf)
+- [Visit analysis.ipynb](https://github.com/Rayansh0071505/Predicting-Customer-Churn-in-a-Telecommunications-Company/blob/master/analysis.ipynb)
+- [EDA Report PDF](https://github.com/Rayansh0071505/Predicting-Customer-Churn-in-a-Telecommunications-Company/blob/master/Report%20-%20Predicting%20Customer%20Churn%20in%20a%20Telecommunications%20Company.pdf)
 - Summary of key insights from EDA:
 
 #### Churn Distribution
@@ -46,7 +46,7 @@ The primary aim of this project is to develop a predictive model that identifies
 
 ## Churn Prediction Model
 ### Model Training
-- [Visit model.ipynb](link_to_model_notebook)
+- [Visit model.ipynb](https://github.com/Rayansh0071505/Predicting-Customer-Churn-in-a-Telecommunications-Company/blob/master/model.ipynb)
 - Data collection and preprocessing steps.
 - Machine learning algorithms considered and implemented.
 - Model training results and evaluation metrics.
@@ -56,7 +56,7 @@ The primary aim of this project is to develop a predictive model that identifies
 - Recommendations based on identified insights for reducing churn.
 
 ## Interactive Dashboard
-- [Link to Power BI Dashboard](link_to_powerbi_dashboard)
+- [Link to Power BI Dashboard](https://app.powerbi.com/groups/me/reports/352b29f8-661b-489d-bbb5-cc118f8b65b9/ReportSection?experience=power-bi)
 - Interactive visualization of key metrics and trends.
 
 
@@ -71,7 +71,7 @@ Model Training Result
 •	'SVM': 0.5743961352657004,
 •	'K-Nearest Neighbors': 0.6714975845410628,
 •	'Naive Bayes': 0.7333333333333333
-o	 
+
 
 
 
