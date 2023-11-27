@@ -8,10 +8,12 @@ Objective
 The primary aim of this project is to develop a predictive model that identifies customers at risk of churning, enabling proactive measures to retain them and reduce churn rates.
 
 Understanding our Data
-•	Customers who left within the last month – the column is called Churn
-•	Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
-•	Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
-•	Demographic info about customers – gender, age range, and if they have partners and dependents
+•	Customers who left within the last month – the column is called Churn<br>
+•	Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies<br>
+•	Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges<br>
+•	Demographic info about customers – gender, age range, and if they have partners and dependents<br>
+<img width="953" alt="image" src="https://github.com/Rayansh0071505/Predicting-Customer-Churn-in-a-Telecommunications-Company/assets/98272246/72b5e6ac-90b1-4caf-8b1c-e4ed320f75f0">
+
 
 
 
