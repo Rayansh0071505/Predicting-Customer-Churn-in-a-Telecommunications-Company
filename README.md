@@ -62,15 +62,16 @@ The primary aim of this project is to develop a predictive model that identifies
 
 
 •	Fine-tuned hyperparameters using techniques like cross-validation or grid search
+
 Model Training Result
 
-•	'Logistic Regression': 0.7570048309178744,
-•	'Decision Tree': 0.8893719806763285,
-•	'Random Forest': 0.9135265700483092,
-•	'Gradient Boosting': 0.8014492753623188,
-•	'SVM': 0.5743961352657004,
-•	'K-Nearest Neighbors': 0.6714975845410628,
-•	'Naive Bayes': 0.7333333333333333
+•	'Logistic Regression': 0.7570048309178744<br>
+•	'Decision Tree': 0.8893719806763285,<br>
+•	'Random Forest': 0.9135265700483092,<br>
+•	'Gradient Boosting': 0.8014492753623188,<br>
+•	'SVM': 0.5743961352657004,<br>
+•	'K-Nearest Neighbors': 0.6714975845410628,<br>
+•	'Naive Bayes': 0.7333333333333333<br>
 
 
 
@@ -89,10 +90,10 @@ Random Forest classifier gives the best accuracy and result and good performance
 
 Evaluation
 
-•	Accuracy: 0.9159
-•	Precision: 0.8743
-•	Recall: 0.9698
-•	F1-score: 0.9196
+•	Accuracy: 0.9159<br>
+•	Precision: 0.8743<br>
+•	Recall: 0.9698<br>
+•	F1-score: 0.9196<br>
 
 
 
